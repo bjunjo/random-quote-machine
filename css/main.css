@@ -1,0 +1,10 @@
+body {
+  background-color: gray;
+}
+.text-box {
+  background-color: #fff; 
+  height: 300px; 
+  width: 450px; 
+  margin: 15% auto;
+  padding: 40px 50px;
+}
